@@ -5992,3 +5992,1321 @@
         "hideTitle": true,
         "tileShape": "POSTER",
         "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Martin%20Scorsese.I encountered an error doing what you asked. Could you try again?
+        {
+        "id": "folder-e1ddbbe7",
+        "title": "Martin Scorsese",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241136"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Martin%20Scorsese.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Martin%20Scorsese.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241136"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/Martin%20Scorsese.jpg"
+      },
+      {
+        "id": "folder-0730ae16",
+        "title": "David Fincher",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241262"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/David%20Fincher.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/David%20Fincher.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241262"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/David%20Fincher.jpg"
+      },
+      {
+        "id": "folder-6cd1acb7",
+        "title": "Quentin Tarantino",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1558961"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Quentin%20Tarantino.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Quentin%20Tarantino.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1558961"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/Quentin%20Tarantino.jpg"
+      },
+      {
+        "id": "folder-ead9ef77",
+        "title": "Stanley Kubrick",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241405"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Stanley%20Kubrick.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Stanley%20Kubrick.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241405"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/Stanley%20Kubrick.jpg"
+      },
+      {
+        "id": "folder-1ee2fcf3",
+        "title": "Denis Villeneuve",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241294"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Denis%20Villeneuve.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Denis%20Villeneuve.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241294"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/Denis%20Villeneuve.jpg"
+      },
+      {
+        "id": "folder-c8a914f0",
+        "title": "Wes Anderson",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6252074"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Wes%20Anderson.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Wes%20Anderson.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6252074"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/Wes%20Anderson.jpg"
+      },
+      {
+        "id": "folder-b21020bf",
+        "title": "Steven Spielberg",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241187"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Steven%20Spielberg.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Steven%20Spielberg.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241187"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/Steven%20Spielberg.jpg"
+      },
+      {
+        "id": "folder-0753cf4d",
+        "title": "Ridley Scott",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241250"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Ridley%20Scott.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Ridley%20Scott.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241250"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Directors/backdrops/Ridley%20Scott.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-c70534a6",
+    "title": "🌍 International Cinema",
+    "folders": [
+      {
+        "id": "folder-873cbfcc",
+        "title": "Argentina",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64533"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.64335"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/Argentina.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Argentina.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64533"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.64335"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/Argentina.jpg"
+      },
+      {
+        "id": "folder-5c58ac9d",
+        "title": "France",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.154409"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.72922"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.49276"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/France.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/France.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.154409"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.72922"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.49276"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/France.jpg"
+      },
+      {
+        "id": "folder-0dd6a620",
+        "title": "South Korea",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.110405"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.155586"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3584"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.75500"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/South%20Korea.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/South%20Korea.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.110405"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.155586"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3584"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.75500"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/South%20Korea.jpg"
+      },
+      {
+        "id": "folder-78ca0aa9",
+        "title": "Spain",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.148832"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.148833"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.102682"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.102681"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/Spain.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Spain.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.148832"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.148833"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.102682"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.102681"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/Spain.jpg"
+      },
+      {
+        "id": "folder-f9f9da9e",
+        "title": "Italy",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.ok9c"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.ko8Ji"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/Italy.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Italy.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.ok9c"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.ko8Ji"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/Italy.jpg"
+      },
+      {
+        "id": "folder-c40e452d",
+        "title": "Japan",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.bJ26g"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.103432"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.144004"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/Japan.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Japan.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.bJ26g"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.103432"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144004"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/Japan.jpg"
+      },
+      {
+        "id": "folder-e2f417ee",
+        "title": "United Kingdom",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.162041"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.101766"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3091"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/United%20Kingdom.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/United%20Kingdom.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162041"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.101766"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3091"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/United%20Kingdom.jpg"
+      },
+      {
+        "id": "folder-b90b8587",
+        "title": "Germany",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.cdA5c"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.165498"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/Germany.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Germany.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.cdA5c"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.165498"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/Germany.jpg"
+      },
+      {
+        "id": "folder-e02c67c0",
+        "title": "Mexico",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.1zkf6"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.cLf96"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.RqIIG"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/Mexico.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Mexico.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.1zkf6"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.cLf96"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.RqIIG"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/Mexico.jpg"
+      },
+      {
+        "id": "folder-48de20af",
+        "title": "Brazil",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.3PcIY"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.136413"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.gussouzanow.brazilian-shows"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/Brazil.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Brazil.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.3PcIY"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.136413"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.gussouzanow.brazilian-shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/Brazil.jpg"
+      },
+      {
+        "id": "folder-ace3edd1",
+        "title": "India",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.5Rj3U"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.jBye"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.11103"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "POSTER",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/International-Cinema/logo/India.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/India.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.5Rj3U"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.jBye"
+          },
+          {
+            "type": "series",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.11103"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/International-Cinema/backdrops/India.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-61597a3c",
+    "title": "🎥 Decades",
+    "folders": [
+      {
+        "id": "folder-e6a1ba0a",
+        "title": "1960s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55694"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Decades/logo/1960s.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1960s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55694"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Decades/backdrops/1960s.jpg"
+      },
+      {
+        "id": "folder-795f6ca2",
+        "title": "1970s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55175"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2820"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Decades/logo/1970s.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1970s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55175"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2820"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Decades/backdrops/1970s.jpg"
+      },
+      {
+        "id": "folder-8c5e7378",
+        "title": "1980s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55174"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Decades/logo/1980s.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1980s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55174"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Decades/backdrops/1980s.jpg"
+      },
+      {
+        "id": "folder-0fbc161a",
+        "title": "1990s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55173"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2818"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Decades/logo/1990s.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1990s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55173"
+          },
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2818"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Decades/backdrops/1990s.jpg"
+      },
+      {
+        "id": "folder-33465711",
+        "title": "2000s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55172"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Decades/logo/2000s.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/2000s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55172"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Decades/backdrops/2000s.jpg"
+      },
+      {
+        "id": "folder-259d704d",
+        "title": "2010s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55171"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Decades/logo/2010s.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/2010s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55171"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Decades/backdrops/2010s.jpg"
+      },
+      {
+        "id": "folder-5ab4f146",
+        "title": "2020s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.55170"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Decades/logo/2020s.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/2020s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.55170"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Decades/backdrops/2020s.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-7af5e5cd",
+    "title": "🎄 Holiday Specials",
+    "folders": [
+      {
+        "id": "folder-4669c314",
+        "title": "Christmas",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.8113"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/logo/Christmas.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Christmas.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.8113"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/backdrops/Christmas.jpg"
+      },
+      {
+        "id": "folder-16c31f7f",
+        "title": "Thanksgiving",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.7943"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/logo/Thanksgiving.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Thanksgiving.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.7943"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/backdrops/Thanksgiving.jpg"
+      },
+      {
+        "id": "folder-ed669df1",
+        "title": "Halloween",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.41422"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/logo/Halloween.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Halloween.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.41422"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/backdrops/Halloween.jpg"
+      },
+      {
+        "id": "folder-6d48793c",
+        "title": "Valentine’s Day",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.142222"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/logo/Valentine%E2%80%99s%20Day.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Valentine%E2%80%99s%20Day.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.142222"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/backdrops/Valentine%E2%80%99s%20Day.jpg"
+      },
+      {
+        "id": "folder-dd2c2f80",
+        "title": "St. Patrick’s Day",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.mv94"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/logo/St.%20Patrick%E2%80%99s%20Day.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/St.%20Patrick%E2%80%99s%20Day.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.mv94"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/backdrops/St.%20Patrick%E2%80%99s%20Day.jpg"
+      },
+      {
+        "id": "folder-13c538c1",
+        "title": "Day of the Dead",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.HSJte"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/logo/Day%20of%20the%20Dead.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Day%20of%20the%20Dead.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.HSJte"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/backdrops/Day%20of%20the%20Dead.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  },
+  {
+    "id": "collection-97386482",
+    "title": "🕒 By Runtime",
+    "folders": [
+      {
+        "id": "folder-7b5698fc",
+        "title": "Under 60 min",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.83601"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/By-Runtime/logo/Under%2060%20min.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Under%2060%20min.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.83601"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/By-Runtime/backdrops/Under%2060%20min.jpg"
+      },
+      {
+        "id": "folder-028c2c95",
+        "title": "Under 90 min",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.83707"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/By-Runtime/logo/Under%2090%20min.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Under%2090%20min.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.83707"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/By-Runtime/backdrops/Under%2090%20min.jpg"
+      },
+      {
+        "id": "folder-cf2a2181",
+        "title": "Under 120 min",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.141346"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/By-Runtime/logo/Under%20120%20min.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Under%20120%20min.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.141346"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/By-Runtime/backdrops/Under%20120%20min.jpg"
+      },
+      {
+        "id": "folder-0d5af462",
+        "title": "Over 120 min",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "letterboxd.bjMmi"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://tvflix.co.uk/Assets/By-Runtime/logo/Over%20120%20min.png",
+        "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Over%20120%20min.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "none",
+            "addonId": "aio-metadata",
+            "catalogId": "letterboxd.bjMmi"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://tvflix.co.uk/Assets/By-Runtime/backdrops/Over%20120%20min.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "FOLLOW_LAYOUT",
+    "showAllTab": true,
+    "focusGlowEnabled": false
+  }
+]
