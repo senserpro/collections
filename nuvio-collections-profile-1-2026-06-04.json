@@ -8,28 +8,28 @@
         "title": "New Releases",
         "sources": [
           {
-            "type": "movie",
+            "type": "New Streaming Releases: Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.86934"
           },
           {
-            "type": "series",
+            "type": "New Streaming Releases: Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.2194"
           },
           {
-            "type": "movie",
+            "type": "In Cinemas Now",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.162527"
           },
           {
-            "type": "movie",
+            "type": "Latest 4K Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -42,25 +42,25 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Now-On/cover/New%20Releases.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "New Streaming Releases: Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.86934"
           },
           {
-            "type": "series",
+            "type": "New Streaming Releases: Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2194"
           },
           {
-            "type": "movie",
+            "type": "In Cinemas Now",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.162527"
           },
           {
-            "type": "movie",
+            "type": "Latest 4K Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.139057"
@@ -74,21 +74,21 @@
         "title": "Trending",
         "sources": [
           {
-            "type": "movie",
+            "type": "Top Movies of the Month",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.88803"
           },
           {
-            "type": "movie",
+            "type": "Trending Movies on Trakt",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.87667"
           },
           {
-            "type": "series",
+            "type": "Trending Series on Trakt",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -101,19 +101,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Now-On/cover/Trending.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Top Movies of the Month",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88803"
           },
           {
-            "type": "movie",
+            "type": "Trending Movies on Trakt",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.87667"
           },
           {
-            "type": "series",
+            "type": "Trending Series on Trakt",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88434"
@@ -127,21 +127,21 @@
         "title": "Essentials",
         "sources": [
           {
-            "type": "movie",
+            "type": "IMDb Top 250 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.88253"
           },
           {
-            "type": "series",
+            "type": "IMDb Top 250 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.2143363"
           },
           {
-            "type": "movie",
+            "type": "Top 100 Classic Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -154,19 +154,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Now-On/cover/Essentials.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "IMDb Top 250 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88253"
           },
           {
-            "type": "series",
+            "type": "IMDb Top 250 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.2143363"
           },
           {
-            "type": "movie",
+            "type": "Top 100 Classic Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.11632963"
@@ -190,28 +190,28 @@
         "title": "Netflix",
         "sources": [
           {
-            "type": "movie",
+            "type": "Netflix Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.netflix.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Netflix",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.13914"
           },
           {
-            "type": "series",
+            "type": "Netflix Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.netflix.world.series"
           },
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -224,25 +224,25 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Netflix.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Netflix Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.netflix.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Netflix",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.13914"
           },
           {
-            "type": "series",
+            "type": "Netflix Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.netflix.world.series"
           },
           {
-            "type": "series",
+            "type": "All Series on Netflix",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.13963"
@@ -256,28 +256,28 @@
         "title": "Prime Video",
         "sources": [
           {
-            "type": "movie",
+            "type": "Prime Video Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.amazon-prime.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Amazon Prime Video",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.3308"
           },
           {
-            "type": "series",
+            "type": "Prime Video Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.amazon-prime.world.series"
           },
           {
-            "type": "series",
+            "type": "All Series on Amazon Prime Video",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -290,25 +290,25 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Prime%20Video.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Prime Video Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.amazon-prime.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Amazon Prime Video",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3308"
           },
           {
-            "type": "series",
+            "type": "Prime Video Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.amazon-prime.world.series"
           },
           {
-            "type": "series",
+            "type": "All Series on Amazon Prime Video",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.13964"
@@ -322,28 +322,28 @@
         "title": "Max",
         "sources": [
           {
-            "type": "movie",
+            "type": "Max Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.hbo-max.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on HBO Max",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.137619"
           },
           {
-            "type": "series",
+            "type": "Max Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.hbo-max.world.series"
           },
           {
-            "type": "series",
+            "type": "All Series on HBO Max",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -356,25 +356,25 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Max.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Max Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.hbo-max.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on HBO Max",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.137619"
           },
           {
-            "type": "series",
+            "type": "Max Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.hbo-max.world.series"
           },
           {
-            "type": "series",
+            "type": "All Series on HBO Max",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.5975"
@@ -388,21 +388,21 @@
         "title": "Apple TV+",
         "sources": [
           {
-            "type": "movie",
+            "type": "Apple TV+ Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.apple-tv.world.movie"
           },
           {
-            "type": "series",
+            "type": "Apple TV+ Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.apple-tv.world.series"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Apple TV+",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -415,19 +415,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Apple%20TV%2B.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Apple TV+ Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.apple-tv.world.movie"
           },
           {
-            "type": "series",
+            "type": "Apple TV+ Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.apple-tv.world.series"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Apple TV+",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.atp_movie"
@@ -441,42 +441,42 @@
         "title": "Disney+",
         "sources": [
           {
-            "type": "movie",
+            "type": "Disney+ Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.disney.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Disney+",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "streaming.dnp_movie"
           },
           {
-            "type": "series",
+            "type": "Disney+ Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.disney.world.series"
           },
           {
-            "type": "movie",
+            "type": "Marvel Universe",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.3022"
           },
           {
-            "type": "movie",
+            "type": "Star Wars Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.155432"
           },
           {
-            "type": "series",
+            "type": "National Geographic Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -489,37 +489,37 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Disney%2B.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Disney+ Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.disney.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Disney+",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.dnp_movie"
           },
           {
-            "type": "series",
+            "type": "Disney+ Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.disney.world.series"
           },
           {
-            "type": "movie",
+            "type": "Marvel Universe",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3022"
           },
           {
-            "type": "movie",
+            "type": "Star Wars Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.155432"
           },
           {
-            "type": "series",
+            "type": "National Geographic Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.47025"
@@ -533,42 +533,42 @@
         "title": "Paramount+",
         "sources": [
           {
-            "type": "movie",
+            "type": "Paramount+ Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.paramount.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Paramount+",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "streaming.pmp_movie"
           },
           {
-            "type": "series",
+            "type": "Paramount+ Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "flixpatrol.paramount.world.series"
           },
           {
-            "type": "series",
+            "type": "Yellowstone Universe Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.143090"
           },
           {
-            "type": "series",
+            "type": "Star Trek Universe Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.143870"
           },
           {
-            "type": "series",
+            "type": "Nickelodeon Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -581,37 +581,37 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Paramount%2B.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Paramount+ Top 10 Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.paramount.world.movie"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Paramount+",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.pmp_movie"
           },
           {
-            "type": "series",
+            "type": "Paramount+ Top 10 Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "flixpatrol.paramount.world.series"
           },
           {
-            "type": "series",
+            "type": "Yellowstone Universe Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.143090"
           },
           {
-            "type": "series",
+            "type": "Star Trek Universe Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.143870"
           },
           {
-            "type": "series",
+            "type": "Nickelodeon Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.47079"
@@ -625,7 +625,7 @@
         "title": "Peacock",
         "sources": [
           {
-            "type": "movie",
+            "type": "All Movies on Peacock",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -638,7 +638,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Peacock.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "All Movies on Peacock",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.pcp_movie"
@@ -652,21 +652,21 @@
         "title": "Discovery+",
         "sources": [
           {
-            "type": "series",
+            "type": "Top Rated Discovery+ Shows",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.10073359"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Discovery+",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "streaming.dpe_movie"
           },
           {
-            "type": "series",
+            "type": "Investigative Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -679,19 +679,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Discovery%2B.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Top Rated Discovery+ Shows",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.10073359"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Discovery+",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.dpe_movie"
           },
           {
-            "type": "series",
+            "type": "Investigative Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.24712"
@@ -705,14 +705,14 @@
         "title": "SkyShowtime",
         "sources": [
           {
-            "type": "movie",
+            "type": "All Movies on SkyShowtime",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "streaming.sst_movie"
           },
           {
-            "type": "movie",
+            "type": "Movies Recommended for you",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -725,13 +725,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/SkyShowtime.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "All Movies on SkyShowtime",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.sst_movie"
           },
           {
-            "type": "movie",
+            "type": "Movies Recommended for you",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.recommendations.movies"
@@ -745,7 +745,7 @@
         "title": "Hulu",
         "sources": [
           {
-            "type": "movie",
+            "type": "All Movies on Hulu",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -758,7 +758,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Hulu.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "All Movies on Hulu",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.hlu_movie"
@@ -772,21 +772,21 @@
         "title": "Crunchyroll",
         "sources": [
           {
-            "type": "movie",
+            "type": "Crunchyroll Top 100 Rated Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.88381"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Crunchyroll",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "streaming.cru_movie"
           },
           {
-            "type": "series",
+            "type": "Crunchyroll Top 100 Rated Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -799,19 +799,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/Crunchyroll.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Crunchyroll Top 100 Rated Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88381"
           },
           {
-            "type": "movie",
+            "type": "All Movies on Crunchyroll",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.cru_movie"
           },
           {
-            "type": "series",
+            "type": "Crunchyroll Top 100 Rated Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.88257"
@@ -825,7 +825,7 @@
         "title": "MUBI",
         "sources": [
           {
-            "type": "movie",
+            "type": "All Movies on MUBI",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -838,7 +838,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Streaming-Platforms/cover/MUBI.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "All Movies on MUBI",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "streaming.mub_movie"
@@ -1406,63 +1406,63 @@
         "title": "Action",
         "sources": [
           {
-            "type": "movie",
+            "type": "Top Action Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.2407"
           },
           {
-            "type": "movie",
+            "type": "New Action Releases",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.128037"
           },
           {
-            "type": "movie",
+            "type": "Modern Action",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.SxPNm"
           },
           {
-            "type": "movie",
+            "type": "1980s Action",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.23274639"
           },
           {
-            "type": "movie",
+            "type": "Action Movies (2000 - 2020)",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.11255166"
           },
           {
-            "type": "movie",
+            "type": "Top 10 Action Movies Of 21st Century",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.4297336"
           },
           {
-            "type": "movie",
+            "type": "Action Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.825738"
           },
           {
-            "type": "movie",
+            "type": "Kung Fu Action",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.4121497"
           },
           {
-            "type": "movie",
+            "type": "Superheroes",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -1475,55 +1475,55 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Action.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Top Action Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2407"
           },
           {
-            "type": "movie",
+            "type": "New Action Releases",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.128037"
           },
           {
-            "type": "movie",
+            "type": "Modern Action",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.SxPNm"
           },
           {
-            "type": "movie",
+            "type": "1980s Action",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.23274639"
           },
           {
-            "type": "movie",
+            "type": "Action Movies (2000 - 2020)",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.11255166"
           },
           {
-            "type": "movie",
+            "type": "Top 10 Action Movies Of 21st Century",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.4297336"
           },
           {
-            "type": "movie",
+            "type": "Action Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.825738"
           },
           {
-            "type": "movie",
+            "type": "Kung Fu Action",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.4121497"
           },
           {
-            "type": "movie",
+            "type": "Superheroes",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.4403343"
@@ -1537,56 +1537,56 @@
         "title": "Drama",
         "sources": [
           {
-            "type": "movie",
+            "type": "Top Drama Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.2408"
           },
           {
-            "type": "series",
+            "type": "Drama Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.3123"
           },
           {
-            "type": "movie",
+            "type": "Popular Drama",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.91296"
           },
           {
-            "type": "series",
+            "type": "Korean Dramas",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.5570260"
           },
           {
-            "type": "series",
+            "type": "Japanese Dramas",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.5570280"
           },
           {
-            "type": "series",
+            "type": "Turkish Dramas",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.11806126"
           },
           {
-            "type": "movie",
+            "type": "Top Rated Drama Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.21676562"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Drama Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -1599,49 +1599,49 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Drama.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Top Drama Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2408"
           },
           {
-            "type": "series",
+            "type": "Drama Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3123"
           },
           {
-            "type": "movie",
+            "type": "Popular Drama",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.91296"
           },
           {
-            "type": "series",
+            "type": "Korean Dramas",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.5570260"
           },
           {
-            "type": "series",
+            "type": "Japanese Dramas",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.5570280"
           },
           {
-            "type": "series",
+            "type": "Turkish Dramas",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.11806126"
           },
           {
-            "type": "movie",
+            "type": "Top Rated Drama Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.21676562"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Drama Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22847145"
@@ -1655,56 +1655,56 @@
         "title": "Comedy",
         "sources": [
           {
-            "type": "movie",
+            "type": "Top Comedy Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.2195"
           },
           {
-            "type": "series",
+            "type": "Comedy Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.3122"
           },
           {
-            "type": "movie",
+            "type": "New Releases in Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.128040"
           },
           {
-            "type": "movie",
+            "type": "Stand-ups",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.100442"
           },
           {
-            "type": "series",
+            "type": "Top 100 TV Comedy Shows",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.22097600"
           },
           {
-            "type": "series",
+            "type": "British Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.1076182"
           },
           {
-            "type": "series",
+            "type": "20 Minute Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.1492847"
           },
           {
-            "type": "movie",
+            "type": "Australian Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -1717,49 +1717,49 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Comedy.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Top Comedy Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2195"
           },
           {
-            "type": "series",
+            "type": "Comedy Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3122"
           },
           {
-            "type": "movie",
+            "type": "New Releases in Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.128040"
           },
           {
-            "type": "movie",
+            "type": "Stand-ups",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.100442"
           },
           {
-            "type": "series",
+            "type": "Top 100 TV Comedy Shows",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22097600"
           },
           {
-            "type": "series",
+            "type": "British Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1076182"
           },
           {
-            "type": "series",
+            "type": "20 Minute Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1492847"
           },
           {
-            "type": "movie",
+            "type": "Australian Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.24787817"
@@ -1773,56 +1773,56 @@
         "title": "Thriller",
         "sources": [
           {
-            "type": "movie",
+            "type": "Popular Thriller Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.91893"
           },
           {
-            "type": "series",
+            "type": "Popular Thriller Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.91894"
           },
           {
-            "type": "movie",
+            "type": "New Thriller Releases",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.128049"
           },
           {
-            "type": "movie",
+            "type": "Psychological Thriller",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.3995"
           },
           {
-            "type": "movie",
+            "type": "Espionage Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.25486050"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Thriller Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.22847415"
           },
           {
-            "type": "movie",
+            "type": "50 Best Indian Psychological Thriller Films",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.28527050"
           },
           {
-            "type": "movie",
+            "type": "Political Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -1835,49 +1835,49 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Thriller.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Popular Thriller Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.91893"
           },
           {
-            "type": "series",
+            "type": "Popular Thriller Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.91894"
           },
           {
-            "type": "movie",
+            "type": "New Thriller Releases",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.128049"
           },
           {
-            "type": "movie",
+            "type": "Psychological Thriller",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3995"
           },
           {
-            "type": "movie",
+            "type": "Espionage Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.25486050"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Thriller Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22847415"
           },
           {
-            "type": "movie",
+            "type": "50 Best Indian Psychological Thriller Films",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.28527050"
           },
           {
-            "type": "movie",
+            "type": "Political Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1343915"
@@ -1891,77 +1891,77 @@
         "title": "Horror",
         "sources": [
           {
-            "type": "movie",
+            "type": "Top Horror Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.2410"
           },
           {
-            "type": "movie",
+            "type": "New Horror Releases",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.128045"
           },
           {
-            "type": "series",
+            "type": "Horror Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.3124"
           },
           {
-            "type": "movie",
+            "type": "Rotten Tomatoes: Best Horror Movies Of All Time",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.4203408"
           },
           {
-            "type": "movie",
+            "type": "The Horror Club: The Best Of Slasher Flicks",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.2067889"
           },
           {
-            "type": "movie",
+            "type": "Hidden Horror Gems",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.22535146"
           },
           {
-            "type": "movie",
+            "type": "French Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.23445415"
           },
           {
-            "type": "movie",
+            "type": "Asian Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.2768146"
           },
           {
-            "type": "movie",
+            "type": "Japanese Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.819973"
           },
           {
-            "type": "movie",
+            "type": "Classic Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.10563394"
           },
           {
-            "type": "movie",
+            "type": "Comedy Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -1974,67 +1974,67 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Horror.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Top Horror Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2410"
           },
           {
-            "type": "movie",
+            "type": "New Horror Releases",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.128045"
           },
           {
-            "type": "series",
+            "type": "Horror Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3124"
           },
           {
-            "type": "movie",
+            "type": "Rotten Tomatoes: Best Horror Movies Of All Time",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.4203408"
           },
           {
-            "type": "movie",
+            "type": "The Horror Club: The Best Of Slasher Flicks",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.2067889"
           },
           {
-            "type": "movie",
+            "type": "Hidden Horror Gems",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22535146"
           },
           {
-            "type": "movie",
+            "type": "French Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.23445415"
           },
           {
-            "type": "movie",
+            "type": "Asian Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.2768146"
           },
           {
-            "type": "movie",
+            "type": "Japanese Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.819973"
           },
           {
-            "type": "movie",
+            "type": "Classic Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.10563394"
           },
           {
-            "type": "movie",
+            "type": "Comedy Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.23423498"
@@ -2048,42 +2048,42 @@
         "title": "Fantasy & Sci-Fi",
         "sources": [
           {
-            "type": "movie",
+            "type": "Top Fantasy/Sci-Fi Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.2412"
           },
           {
-            "type": "series",
+            "type": "Fantasy Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.6607"
           },
           {
-            "type": "movie",
+            "type": "Best Fantasy Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.24624565"
           },
           {
-            "type": "movie",
+            "type": "Classic Sci-Fi & Fantasy",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.1588607"
           },
           {
-            "type": "movie",
+            "type": "Fantasy: Swords, Sorcery, and Celluloid",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.3572166"
           },
           {
-            "type": "movie",
+            "type": "Dark Fantasy Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2096,37 +2096,37 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Fantasy%20%26%20Sci-Fi.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Top Fantasy/Sci-Fi Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2412"
           },
           {
-            "type": "series",
+            "type": "Fantasy Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.6607"
           },
           {
-            "type": "movie",
+            "type": "Best Fantasy Comedy",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.24624565"
           },
           {
-            "type": "movie",
+            "type": "Classic Sci-Fi & Fantasy",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1588607"
           },
           {
-            "type": "movie",
+            "type": "Fantasy: Swords, Sorcery, and Celluloid",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.3572166"
           },
           {
-            "type": "movie",
+            "type": "Dark Fantasy Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.2041885"
@@ -2140,70 +2140,70 @@
         "title": "Romance",
         "sources": [
           {
-            "type": "movie",
+            "type": "Popular Romance Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.128262"
           },
           {
-            "type": "series",
+            "type": "Popular Romance Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.128265"
           },
           {
-            "type": "series",
+            "type": "New Romance Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.128264"
           },
           {
-            "type": "movie",
+            "type": "Best of Romance",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.2837"
           },
           {
-            "type": "movie",
+            "type": "Romantic Comedies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.6678796"
           },
           {
-            "type": "movie",
+            "type": "Teen Romance",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.4757107"
           },
           {
-            "type": "movie",
+            "type": "Wartime Romance",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.25318901"
           },
           {
-            "type": "movie",
+            "type": "Romance, Fantasy & Comedy Crossovers",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.24624570"
           },
           {
-            "type": "movie",
+            "type": "Forbidden Love in Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.11142103"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Romance Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2216,61 +2216,61 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Romance.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Popular Romance Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.128262"
           },
           {
-            "type": "series",
+            "type": "Popular Romance Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.128265"
           },
           {
-            "type": "series",
+            "type": "New Romance Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.128264"
           },
           {
-            "type": "movie",
+            "type": "Best of Romance",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2837"
           },
           {
-            "type": "movie",
+            "type": "Romantic Comedies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6678796"
           },
           {
-            "type": "movie",
+            "type": "Teen Romance",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.4757107"
           },
           {
-            "type": "movie",
+            "type": "Wartime Romance",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.25318901"
           },
           {
-            "type": "movie",
+            "type": "Romance, Fantasy & Comedy Crossovers",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.24624570"
           },
           {
-            "type": "movie",
+            "type": "Forbidden Love in Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.11142103"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Romance Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22847343"
@@ -2284,98 +2284,98 @@
         "title": "Animation",
         "sources": [
           {
-            "type": "movie",
+            "type": "Popular Animation Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.121922"
           },
           {
-            "type": "series",
+            "type": "Popular Animation Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.121921"
           },
           {
-            "type": "series",
+            "type": "Adult Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.8150"
           },
           {
-            "type": "movie",
+            "type": "Pixar Animation Studios",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.1522155"
           },
           {
-            "type": "movie",
+            "type": "Dreamworks Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.1580797"
           },
           {
-            "type": "movie",
+            "type": "Sony Pictures Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.23334961"
           },
           {
-            "type": "movie",
+            "type": "Hidden Animation Gems",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.3899489"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Animation Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.22847039"
           },
           {
-            "type": "movie",
+            "type": "Warner Bros Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.837518"
           },
           {
-            "type": "movie",
+            "type": "Japanese Anime Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.23471533"
           },
           {
-            "type": "series",
+            "type": "Fox Adult Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.26321637"
           },
           {
-            "type": "movie",
+            "type": "Garfield Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.22517757"
           },
           {
-            "type": "series",
+            "type": "Scooby-Doo Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.22403154"
           },
           {
-            "type": "movie",
+            "type": "Shrek Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2388,85 +2388,85 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Animation.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Popular Animation Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.121922"
           },
           {
-            "type": "series",
+            "type": "Popular Animation Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.121921"
           },
           {
-            "type": "series",
+            "type": "Adult Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.8150"
           },
           {
-            "type": "movie",
+            "type": "Pixar Animation Studios",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1522155"
           },
           {
-            "type": "movie",
+            "type": "Dreamworks Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1580797"
           },
           {
-            "type": "movie",
+            "type": "Sony Pictures Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.23334961"
           },
           {
-            "type": "movie",
+            "type": "Hidden Animation Gems",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.3899489"
           },
           {
-            "type": "movie",
+            "type": "IMDb's Top Animation Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22847039"
           },
           {
-            "type": "movie",
+            "type": "Warner Bros Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.837518"
           },
           {
-            "type": "movie",
+            "type": "Japanese Anime Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.23471533"
           },
           {
-            "type": "series",
+            "type": "Fox Adult Animation",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.26321637"
           },
           {
-            "type": "movie",
+            "type": "Garfield Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22517757"
           },
           {
-            "type": "series",
+            "type": "Scooby-Doo Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22403154"
           },
           {
-            "type": "movie",
+            "type": "Shrek Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.dcofG"
@@ -2480,21 +2480,21 @@
         "title": "Concerts & Music",
         "sources": [
           {
-            "type": "movie",
+            "type": "Music Concerts & Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.21190773"
           },
           {
-            "type": "movie",
+            "type": "Music Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.21992099"
           },
           {
-            "type": "movie",
+            "type": "Live Concerts & Music",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2507,19 +2507,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Concerts%20%26%20Music.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Music Concerts & Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.21190773"
           },
           {
-            "type": "movie",
+            "type": "Music Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.21992099"
           },
           {
-            "type": "movie",
+            "type": "Live Concerts & Music",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.11571354"
@@ -2533,56 +2533,56 @@
         "title": "Documentaries",
         "sources": [
           {
-            "type": "series",
+            "type": "True Crime Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.1799417"
           },
           {
-            "type": "series",
+            "type": "Attenborough Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.6652017"
           },
           {
-            "type": "movie",
+            "type": "Rotten Tomatoes: Best Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.10235726"
           },
           {
-            "type": "movie",
+            "type": "History Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.6652940"
           },
           {
-            "type": "series",
+            "type": "BBC Wildlife & Nature Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.25298201"
           },
           {
-            "type": "movie",
+            "type": "Hacking & Programming Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.2565470"
           },
           {
-            "type": "movie",
+            "type": "Space Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.23020633"
           },
           {
-            "type": "movie",
+            "type": "War Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2595,49 +2595,49 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Documentaries.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "True Crime Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1799417"
           },
           {
-            "type": "series",
+            "type": "Attenborough Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6652017"
           },
           {
-            "type": "movie",
+            "type": "Rotten Tomatoes: Best Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.10235726"
           },
           {
-            "type": "movie",
+            "type": "History Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6652940"
           },
           {
-            "type": "series",
+            "type": "BBC Wildlife & Nature Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.25298201"
           },
           {
-            "type": "movie",
+            "type": "Hacking & Programming Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.2565470"
           },
           {
-            "type": "movie",
+            "type": "Space Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.23020633"
           },
           {
-            "type": "movie",
+            "type": "War Documentaries",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.19556363"
@@ -2651,14 +2651,14 @@
         "title": "Musicals",
         "sources": [
           {
-            "type": "movie",
+            "type": "AFI Greatest Movie Musicals",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.2627890"
           },
           {
-            "type": "movie",
+            "type": "Live Stage Musicals",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2671,13 +2671,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Musicals.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "AFI Greatest Movie Musicals",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.2627890"
           },
           {
-            "type": "movie",
+            "type": "Live Stage Musicals",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.22458618"
@@ -2691,14 +2691,14 @@
         "title": "Mystery",
         "sources": [
           {
-            "type": "movie",
+            "type": "Korean Mystery Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "trakt.list.21697354"
           },
           {
-            "type": "movie",
+            "type": "Investigative Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2711,13 +2711,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Genres/cover/Mystery.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Korean Mystery Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.21697354"
           },
           {
-            "type": "movie",
+            "type": "Investigative Thrillers",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.27276733"
@@ -2741,14 +2741,14 @@
         "title": "Marvel",
         "sources": [
           {
-            "type": "movie",
+            "type": "Marvel Cinematic Universe Movies Only",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.9313"
           },
           {
-            "type": "series",
+            "type": "Marvel Cinematic Universe MCU Shows in Order",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2761,13 +2761,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Marvel.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Marvel Cinematic Universe Movies Only",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.9313"
           },
           {
-            "type": "series",
+            "type": "Marvel Cinematic Universe MCU Shows in Order",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.32047"
@@ -2781,14 +2781,14 @@
         "title": "DC",
         "sources": [
           {
-            "type": "movie",
+            "type": "DC Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.98039"
           },
           {
-            "type": "series",
+            "type": "DC Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2801,13 +2801,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/DC.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "DC Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.98039"
           },
           {
-            "type": "series",
+            "type": "DC Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.141051"
@@ -2821,7 +2821,7 @@
         "title": "The Lord of the Rings & The Hobbit",
         "sources": [
           {
-            "type": "movie",
+            "type": "Hobbit & Lord of the Rings Universe",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2834,7 +2834,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/The%20Lord%20of%20the%20Rings%20%26%20The%20Hobbit.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Hobbit & Lord of the Rings Universe",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.94304"
@@ -2848,7 +2848,7 @@
         "title": "Avatar",
         "sources": [
           {
-            "type": "movie",
+            "type": "Avatar Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2861,7 +2861,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Avatar.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Avatar Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.102983"
@@ -2875,7 +2875,7 @@
         "title": "Matrix",
         "sources": [
           {
-            "type": "movie",
+            "type": "Matrix Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2888,7 +2888,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Matrix.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Matrix Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.7vfgk"
@@ -2902,7 +2902,7 @@
         "title": "James Bond",
         "sources": [
           {
-            "type": "movie",
+            "type": "James Bond Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2915,7 +2915,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/James%20Bond.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "James Bond Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.4lK4"
@@ -2929,7 +2929,7 @@
         "title": "Fast & Furious",
         "sources": [
           {
-            "type": "movie",
+            "type": "Fast and Furious Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2942,7 +2942,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Fast%20%26%20Furious.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Fast and Furious Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.d9hdi"
@@ -2956,7 +2956,7 @@
         "title": "Jurassic Park",
         "sources": [
           {
-            "type": "movie",
+            "type": "Jurassic Park Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2970,7 +2970,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Jurassic%20Park.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Jurassic Park Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.d8w0G"
@@ -2984,7 +2984,7 @@
         "title": "Indiana Jones",
         "sources": [
           {
-            "type": "movie",
+            "type": "Indiana Jones Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -2997,7 +2997,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Indiana%20Jones.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Indiana Jones Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.dcpWc"
@@ -3011,7 +3011,7 @@
         "title": "Pirates of the Caribbean",
         "sources": [
           {
-            "type": "movie",
+            "type": "Pirates of the Caribbean Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3024,7 +3024,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Pirates%20of%20the%20Caribbean.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Pirates of the Caribbean Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.dd5z0"
@@ -3038,7 +3038,7 @@
         "title": "Planet of the Apes",
         "sources": [
           {
-            "type": "movie",
+            "type": "Planet of the Apes Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3051,7 +3051,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Planet%20of%20the%20Apes.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Planet of the Apes Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.dd69i"
@@ -3065,7 +3065,7 @@
         "title": "The Conjuring",
         "sources": [
           {
-            "type": "movie",
+            "type": "The Conjuring Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3078,7 +3078,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/The%20Conjuring.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "The Conjuring Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.cz0mq"
@@ -3092,7 +3092,7 @@
         "title": "Halloween",
         "sources": [
           {
-            "type": "movie",
+            "type": "Halloween Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3105,7 +3105,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Halloween.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Halloween Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.PnlE"
@@ -3119,7 +3119,7 @@
         "title": "Friday the 13th",
         "sources": [
           {
-            "type": "movie",
+            "type": "Friday the 13th Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3132,7 +3132,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Friday%20the%2013th.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Friday the 13th Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.1yPmg"
@@ -3146,7 +3146,7 @@
         "title": "Saw",
         "sources": [
           {
-            "type": "movie",
+            "type": "Jigsaw Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3159,7 +3159,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Saw.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Jigsaw Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.dfhgo"
@@ -3173,7 +3173,7 @@
         "title": "Scream",
         "sources": [
           {
-            "type": "movie",
+            "type": "Scream Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3186,7 +3186,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Scream.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Scream Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.demGY"
@@ -3200,7 +3200,7 @@
         "title": "Chucky",
         "sources": [
           {
-            "type": "movie",
+            "type": "Chucky Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3213,7 +3213,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Chucky.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Chucky Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.fNDgc"
@@ -3227,7 +3227,7 @@
         "title": "Transformers",
         "sources": [
           {
-            "type": "movie",
+            "type": "Transformers Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3240,7 +3240,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Franchises/cover/Transformers.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Transformers Collection",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.dcrMo"
@@ -3264,63 +3264,63 @@
         "title": "Academy Awards",
         "sources": [
           {
-            "type": "movie",
+            "type": "Best Picture Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.4rnwU"
           },
           {
-            "type": "movie",
+            "type": "Best Actress Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.Tg63e"
           },
           {
-            "type": "movie",
+            "type": "Best Actor Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.Tg65O"
           },
           {
-            "type": "movie",
+            "type": "Best Director Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.Tg5Sq"
           },
           {
-            "type": "movie",
+            "type": "Best Original Song Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.Tg5MW"
           },
           {
-            "type": "movie",
+            "type": "Best International Film Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.Tg5WW"
           },
           {
-            "type": "movie",
+            "type": "Best Sound Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.Tg5o6"
           },
           {
-            "type": "movie",
+            "type": "Best Documentary Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.Tg546"
           },
           {
-            "type": "movie",
+            "type": "Best Visual Effects Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3333,55 +3333,55 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Awards-Festivals/cover/Academy%20Awards.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Best Picture Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.4rnwU"
           },
           {
-            "type": "movie",
+            "type": "Best Actress Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg63e"
           },
           {
-            "type": "movie",
+            "type": "Best Actor Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg65O"
           },
           {
-            "type": "movie",
+            "type": "Best Director Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg5Sq"
           },
           {
-            "type": "movie",
+            "type": "Best Original Song Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg5MW"
           },
           {
-            "type": "movie",
+            "type": "Best International Film Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg5WW"
           },
           {
-            "type": "movie",
+            "type": "Best Sound Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg5o6"
           },
           {
-            "type": "movie",
+            "type": "Best Documentary Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg546"
           },
           {
-            "type": "movie",
+            "type": "Best Visual Effects Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tg4WG"
@@ -3395,7 +3395,7 @@
         "title": "Cannes Film Festival",
         "sources": [
           {
-            "type": "movie",
+            "type": "Cannes Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3408,7 +3408,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Awards-Festivals/cover/Cannes%20Film%20Festival.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Cannes Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.5BNSw"
@@ -3422,7 +3422,7 @@
         "title": "Venice Film Festival",
         "sources": [
           {
-            "type": "movie",
+            "type": "Venice Festival Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3435,7 +3435,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Awards-Festivals/cover/Venice%20Film%20Festival.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Venice Festival Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.146622"
@@ -3449,7 +3449,7 @@
         "title": "BAFTA",
         "sources": [
           {
-            "type": "movie",
+            "type": "BAFTA Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3462,7 +3462,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Awards-Festivals/cover/BAFTA.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "BAFTA Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.Tjz42"
@@ -3476,21 +3476,21 @@
         "title": "Golden Globes",
         "sources": [
           {
-            "type": "movie",
+            "type": "Golden Globe Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.149615"
           },
           {
-            "type": "movie",
+            "type": "2026 Golden Globe Nominees",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.129917"
           },
           {
-            "type": "movie",
+            "type": "Actors & Actresses Nominees",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3503,19 +3503,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Awards-Festivals/cover/Golden%20Globes.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Golden Globe Winners",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.149615"
           },
           {
-            "type": "movie",
+            "type": "2026 Golden Globe Nominees",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.129917"
           },
           {
-            "type": "movie",
+            "type": "Actors & Actresses Nominees",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.129385"
@@ -3539,7 +3539,7 @@
         "title": "True Stories",
         "sources": [
           {
-            "type": "movie",
+            "type": "Movies Based on True Stories",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3552,7 +3552,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Based-On/cover/True%20Stories.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Movies Based on True Stories",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.29324"
@@ -3566,7 +3566,7 @@
         "title": "Comic Books",
         "sources": [
           {
-            "type": "movie",
+            "type": "Superhero & Comic Book Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3579,7 +3579,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Based-On/cover/Comic%20Books.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Superhero & Comic Book Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3129"
@@ -3593,7 +3593,7 @@
         "title": "Video Games",
         "sources": [
           {
-            "type": "movie",
+            "type": "Movies Based on Video Games",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3606,7 +3606,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Based-On/cover/Video%20Games.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Movies Based on Video Games",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.14813"
@@ -3620,7 +3620,7 @@
         "title": "Books",
         "sources": [
           {
-            "type": "movie",
+            "type": "Movies Based on Books",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3633,7 +3633,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Based-On/cover/Books.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Movies Based on Books",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.51458"
@@ -3684,7 +3684,7 @@
         "title": "Universal Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "Universal Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3697,7 +3697,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Universal%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Universal Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169256"
@@ -3711,7 +3711,7 @@
         "title": "Paramount Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "Paramount Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3724,7 +3724,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Paramount%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Paramount Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169259"
@@ -3738,7 +3738,7 @@
         "title": "Warner Bros. Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "Warner Bros. Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3751,7 +3751,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Warner%20Bros.%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Warner Bros. Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169261"
@@ -3765,7 +3765,7 @@
         "title": "Blumhouse",
         "sources": [
           {
-            "type": "movie",
+            "type": "Blumhouse - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3778,7 +3778,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Blumhouse.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Blumhouse - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169315"
@@ -3792,7 +3792,7 @@
         "title": "Columbia Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "Columbia Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3805,7 +3805,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Columbia%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Columbia Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169263"
@@ -3819,7 +3819,7 @@
         "title": "20th Century Studios",
         "sources": [
           {
-            "type": "movie",
+            "type": "20th Century Studios - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3832,7 +3832,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/20th%20Century%20Studios.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "20th Century Studios - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169264"
@@ -3846,7 +3846,7 @@
         "title": "New Line Cinema",
         "sources": [
           {
-            "type": "movie",
+            "type": "New Line Cinema - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3859,7 +3859,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/New%20Line%20Cinema.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "New Line Cinema - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169267"
@@ -3873,7 +3873,7 @@
         "title": "Sony Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "Sony Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3886,7 +3886,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Sony%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Sony Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169268"
@@ -3900,7 +3900,7 @@
         "title": "Legendary Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "Legendary Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3913,7 +3913,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Legendary%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Legendary Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169270"
@@ -3927,7 +3927,7 @@
         "title": "Lionsgate",
         "sources": [
           {
-            "type": "movie",
+            "type": "Lionsgate - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3940,7 +3940,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Lionsgate.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Lionsgate - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169273"
@@ -3954,7 +3954,7 @@
         "title": "Metro-Goldwyn-Mayer",
         "sources": [
           {
-            "type": "movie",
+            "type": "Metro-Goldwyn-Mayer - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3967,7 +3967,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Metro-Goldwyn-Mayer.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Metro-Goldwyn-Mayer - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169274"
@@ -3981,7 +3981,7 @@
         "title": "DreamWorks Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "DreamWorks Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -3994,7 +3994,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/DreamWorks%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "DreamWorks Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169275"
@@ -4008,7 +4008,7 @@
         "title": "Amblin Entertainment",
         "sources": [
           {
-            "type": "movie",
+            "type": "Amblin Entertainment - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4021,7 +4021,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Amblin%20Entertainment.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Amblin Entertainment - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169277"
@@ -4035,7 +4035,7 @@
         "title": "Searchlight Pictures",
         "sources": [
           {
-            "type": "movie",
+            "type": "Searchlight Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4048,7 +4048,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/Searchlight%20Pictures.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Searchlight Pictures - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169278"
@@ -4062,7 +4062,7 @@
         "title": "A24",
         "sources": [
           {
-            "type": "movie",
+            "type": "A24 - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4075,7 +4075,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Movies/cover/A24.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "A24 - Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169281"
@@ -4099,7 +4099,7 @@
         "title": "Warner Bros. Television Studios",
         "sources": [
           {
-            "type": "series",
+            "type": "Warner Bros. Television Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4112,7 +4112,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Warner%20Bros.%20Television%20Studios.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Warner Bros. Television Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169283"
@@ -4126,7 +4126,7 @@
         "title": "Universal Television",
         "sources": [
           {
-            "type": "series",
+            "type": "Universal Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4139,7 +4139,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Universal%20Television.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Universal Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169284"
@@ -4153,7 +4153,7 @@
         "title": "Sony Pictures Television",
         "sources": [
           {
-            "type": "series",
+            "type": "Sony Pictures Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4166,7 +4166,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Sony%20Pictures%20Television.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Sony Pictures Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169286"
@@ -4180,7 +4180,7 @@
         "title": "20th Television",
         "sources": [
           {
-            "type": "series",
+            "type": "20th Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4193,7 +4193,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/20th%20Television.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "20th Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169289"
@@ -4207,7 +4207,7 @@
         "title": "Paramount Television Studios",
         "sources": [
           {
-            "type": "series",
+            "type": "Paramount Television Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4220,7 +4220,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Paramount%20Television%20Studios.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Paramount Television Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169290"
@@ -4234,7 +4234,7 @@
         "title": "CBS Studios",
         "sources": [
           {
-            "type": "series",
+            "type": "CBS Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4247,7 +4247,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/CBS%20Studios.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "CBS Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169291"
@@ -4261,7 +4261,7 @@
         "title": "Lionsgate Television",
         "sources": [
           {
-            "type": "series",
+            "type": "Lionsgate Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4274,7 +4274,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Lionsgate%20Television.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Lionsgate Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169293"
@@ -4288,7 +4288,7 @@
         "title": "MGM Television",
         "sources": [
           {
-            "type": "series",
+            "type": "MGM Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4301,7 +4301,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/MGM%20Television.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "MGM Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169294"
@@ -4315,7 +4315,7 @@
         "title": "ABC Signature",
         "sources": [
           {
-            "type": "series",
+            "type": "ABC Signature - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4328,7 +4328,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/ABC%20Signature.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "ABC Signature - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169295"
@@ -4342,7 +4342,7 @@
         "title": "FX Productions",
         "sources": [
           {
-            "type": "series",
+            "type": "FX Productions - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4355,7 +4355,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/FX%20Productions.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "FX Productions - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169297"
@@ -4369,7 +4369,7 @@
         "title": "NBCUniversal Content Studios",
         "sources": [
           {
-            "type": "series",
+            "type": "NBCUniversal Content Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4382,7 +4382,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/NBCUniversal%20Content%20Studios.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "NBCUniversal Content Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169302"
@@ -4396,7 +4396,7 @@
         "title": "Bad Robot Production",
         "sources": [
           {
-            "type": "series",
+            "type": "Bad Robot Production",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4409,7 +4409,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Bad%20Robot%20Production.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Bad Robot Production",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169305"
@@ -4423,7 +4423,7 @@
         "title": "Fremantle North America",
         "sources": [
           {
-            "type": "series",
+            "type": "Fremantle North America - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4436,7 +4436,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Fremantle%20North%20America.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Fremantle North America - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169308"
@@ -4450,7 +4450,7 @@
         "title": "Skydance Television",
         "sources": [
           {
-            "type": "series",
+            "type": "Skydance Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4463,7 +4463,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/Skydance%20Television.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "Skydance Television - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169311"
@@ -4477,7 +4477,7 @@
         "title": "A+E Studios",
         "sources": [
           {
-            "type": "series",
+            "type": "A+E Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4490,7 +4490,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Production-Studios-Series/cover/A%2BE%20Studios.png",
         "catalogSources": [
           {
-            "type": "series",
+            "type": "A+E Studios - Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.169314"
@@ -4514,7 +4514,7 @@
         "title": "Robert De Niro",
         "sources": [
           {
-            "type": "movie",
+            "type": "Robert De Niro",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4527,7 +4527,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robert%20De%20Niro.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Robert De Niro",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57176"
@@ -4541,7 +4541,7 @@
         "title": "Al Pacino",
         "sources": [
           {
-            "type": "movie",
+            "type": "Al Pacino",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4554,7 +4554,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Al%20Pacino.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Al Pacino",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57177"
@@ -4568,7 +4568,7 @@
         "title": "Meryl Streep",
         "sources": [
           {
-            "type": "movie",
+            "type": "Meryl Streep",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4581,7 +4581,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Meryl%20Streep.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Meryl Streep",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.808721"
@@ -4595,7 +4595,7 @@
         "title": "Jack Nicholson",
         "sources": [
           {
-            "type": "movie",
+            "type": "Jack Nicholson",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4608,7 +4608,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jack%20Nicholson.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Jack Nicholson",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.10158745"
@@ -4622,7 +4622,7 @@
         "title": "Anthony Hopkins",
         "sources": [
           {
-            "type": "movie",
+            "type": "Anthony Hopkins",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4635,7 +4635,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Anthony%20Hopkins.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Anthony Hopkins",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57179"
@@ -4649,7 +4649,7 @@
         "title": "Morgan Freeman",
         "sources": [
           {
-            "type": "movie",
+            "type": "Morgan Freeman",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4662,7 +4662,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Morgan%20Freeman.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Morgan Freeman",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57185"
@@ -4676,7 +4676,7 @@
         "title": "Daniel Day-Lewis",
         "sources": [
           {
-            "type": "movie",
+            "type": "Daniel Day-Lewis",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4689,7 +4689,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Daniel%20Day-Lewis.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Daniel Day-Lewis",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.tU6Og"
@@ -4703,7 +4703,7 @@
         "title": "Christian Bale",
         "sources": [
           {
-            "type": "movie",
+            "type": "Christian Bale",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4716,7 +4716,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Christian%20Bale.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Christian Bale",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57202"
@@ -4730,7 +4730,7 @@
         "title": "Jake Gyllenhaal",
         "sources": [
           {
-            "type": "movie",
+            "type": "Jake Gyllenhaal",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4743,7 +4743,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jake%20Gyllenhaal.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Jake Gyllenhaal",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.77131"
@@ -4757,7 +4757,7 @@
         "title": "Ryan Gosling",
         "sources": [
           {
-            "type": "movie",
+            "type": "Ryan Gosling",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4770,7 +4770,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Ryan%20Gosling.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Ryan Gosling",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.157927"
@@ -4784,7 +4784,7 @@
         "title": "Margot Robbie",
         "sources": [
           {
-            "type": "movie",
+            "type": "Margot Robbie",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4797,7 +4797,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Margot%20Robbie.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Margot Robbie",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.76456"
@@ -4811,7 +4811,7 @@
         "title": "Natalie Portman",
         "sources": [
           {
-            "type": "movie",
+            "type": "Natalie Portman",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4824,7 +4824,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Natalie%20Portman.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Natalie Portman",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.100770"
@@ -4838,7 +4838,7 @@
         "title": "Timothée Chalamet",
         "sources": [
           {
-            "type": "movie",
+            "type": "Timothée Chalamet",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4851,7 +4851,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Timoth%C3%A9e%20Chalamet.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Timothée Chalamet",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.158987"
@@ -4865,7 +4865,7 @@
         "title": "Joaquin Phoenix",
         "sources": [
           {
-            "type": "movie",
+            "type": "Joaquin Phoenix",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4878,7 +4878,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Joaquin%20Phoenix.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Joaquin Phoenix",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57200"
@@ -4892,7 +4892,7 @@
         "title": "Florence Pugh",
         "sources": [
           {
-            "type": "movie",
+            "type": "Florence Pugh",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4905,7 +4905,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Florence%20Pugh.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Florence Pugh",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.159033"
@@ -4919,7 +4919,7 @@
         "title": "Scarlett Johansson",
         "sources": [
           {
-            "type": "movie",
+            "type": "Scarlett Johansson",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4932,7 +4932,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Scarlett%20Johansson.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Scarlett Johansson",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.114401"
@@ -4946,7 +4946,7 @@
         "title": "Cate Blanchett",
         "sources": [
           {
-            "type": "movie",
+            "type": "Cate Blanchett",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4959,7 +4959,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Cate%20Blanchett.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Cate Blanchett",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.120264"
@@ -4973,7 +4973,7 @@
         "title": "Emma Stone",
         "sources": [
           {
-            "type": "movie",
+            "type": "Emma Stone",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -4986,7 +4986,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Emma%20Stone.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Emma Stone",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.157930"
@@ -5000,7 +5000,7 @@
         "title": "Peter Sellers",
         "sources": [
           {
-            "type": "movie",
+            "type": "Peter Sellers",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5013,7 +5013,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Peter%20Sellers.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Peter Sellers",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.157993"
@@ -5027,7 +5027,7 @@
         "title": "Leonardo Dicaprio",
         "sources": [
           {
-            "type": "movie",
+            "type": "Leonardo Dicaprio",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5040,7 +5040,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Leonardo%20Dicaprio.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Leonardo Dicaprio",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55447"
@@ -5054,7 +5054,7 @@
         "title": "Mark Wahlberg",
         "sources": [
           {
-            "type": "movie",
+            "type": "Mark Wahlberg",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5067,7 +5067,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Mark%20Wahlberg.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Mark Wahlberg",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55781"
@@ -5081,7 +5081,7 @@
         "title": "Tom Hanks",
         "sources": [
           {
-            "type": "movie",
+            "type": "Tom Hanks",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5094,7 +5094,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Tom%20Hanks.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Tom Hanks",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57178"
@@ -5108,7 +5108,7 @@
         "title": "Denzel Washington",
         "sources": [
           {
-            "type": "movie",
+            "type": "Denzel Washington",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5121,7 +5121,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Denzel%20Washington.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Denzel Washington",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57180"
@@ -5135,7 +5135,7 @@
         "title": "Michael Caine",
         "sources": [
           {
-            "type": "movie",
+            "type": "Michael Caine",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5148,7 +5148,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Michael%20Caine.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Michael Caine",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57181"
@@ -5162,7 +5162,7 @@
         "title": "James Stewart",
         "sources": [
           {
-            "type": "movie",
+            "type": "James Stewart",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5175,7 +5175,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/James%20Stewart.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "James Stewart",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57182"
@@ -5189,7 +5189,7 @@
         "title": "Robin Williams",
         "sources": [
           {
-            "type": "movie",
+            "type": "Robin Williams",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5202,7 +5202,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robin%20Williams.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Robin Williams",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57183"
@@ -5216,7 +5216,7 @@
         "title": "Robert Duvall",
         "sources": [
           {
-            "type": "movie",
+            "type": "Robert Duvall",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5229,7 +5229,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robert%20Duvall.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Robert Duvall",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57184"
@@ -5243,7 +5243,7 @@
         "title": "Jeff Bridges",
         "sources": [
           {
-            "type": "movie",
+            "type": "Jeff Bridges",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5256,7 +5256,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jeff%20Bridges.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Jeff Bridges",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57186"
@@ -5270,7 +5270,7 @@
         "title": "Clint Eastwood",
         "sources": [
           {
-            "type": "movie",
+            "type": "Clint Eastwood",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5283,7 +5283,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Clint%20Eastwood.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Clint Eastwood",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57187"
@@ -5297,7 +5297,7 @@
         "title": "Gene Hackman",
         "sources": [
           {
-            "type": "movie",
+            "type": "Gene Hackman",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5310,7 +5310,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Gene%20Hackman.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Gene Hackman",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57188"
@@ -5324,7 +5324,7 @@
         "title": "Philip Seymour Hoffman",
         "sources": [
           {
-            "type": "movie",
+            "type": "Philip Seymour Hoffman",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5337,7 +5337,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Philip%20Seymour%20Hoffman.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Philip Seymour Hoffman",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57190"
@@ -5351,7 +5351,7 @@
         "title": "Russell Crowe",
         "sources": [
           {
-            "type": "movie",
+            "type": "Russell Crowe",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5364,7 +5364,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Russell%20Crowe.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Russell Crowe",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57191"
@@ -5378,7 +5378,7 @@
         "title": "Tommy Lee Jones",
         "sources": [
           {
-            "type": "movie",
+            "type": "Tommy Lee Jones",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5391,7 +5391,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Tommy%20Lee%20Jones.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Tommy Lee Jones",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57193"
@@ -5405,7 +5405,7 @@
         "title": "Sean Connery",
         "sources": [
           {
-            "type": "movie",
+            "type": "Sean Connery",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5418,7 +5418,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Sean%20Connery.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Sean Connery",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57194"
@@ -5432,7 +5432,7 @@
         "title": "Chistopher Walken",
         "sources": [
           {
-            "type": "movie",
+            "type": "Chistopher Walken",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5445,7 +5445,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Christopher%20Walken.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Chistopher Walken",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57195"
@@ -5459,7 +5459,7 @@
         "title": "Joe Pesci",
         "sources": [
           {
-            "type": "movie",
+            "type": "Joe Pesci",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5472,7 +5472,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Joe%20Pesci.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Joe Pesci",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57196"
@@ -5486,7 +5486,7 @@
         "title": "Jon Voight",
         "sources": [
           {
-            "type": "movie",
+            "type": "Jon Voight",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5499,7 +5499,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jon%20Voight.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Jon Voight",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57197"
@@ -5513,7 +5513,7 @@
         "title": "Heath Ledger",
         "sources": [
           {
-            "type": "movie",
+            "type": "Heath Ledger",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5526,7 +5526,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Heath%20Ledger.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Heath Ledger",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57198"
@@ -5540,7 +5540,7 @@
         "title": "Johnny Depp",
         "sources": [
           {
-            "type": "movie",
+            "type": "Johnny Depp",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5553,7 +5553,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Johnny%20Depp.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Johnny Depp",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57199"
@@ -5567,7 +5567,7 @@
         "title": "Matthew McConaughey",
         "sources": [
           {
-            "type": "movie",
+            "type": "Matthew McConaughey",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5580,7 +5580,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Matthew%20McConaughey.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Matthew McConaughey",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57201"
@@ -5594,7 +5594,7 @@
         "title": "Edward Norton",
         "sources": [
           {
-            "type": "movie",
+            "type": "Edward Norton",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5607,7 +5607,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Edward%20Norton.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Edward Norton",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57203"
@@ -5621,7 +5621,7 @@
         "title": "Brad Pitt",
         "sources": [
           {
-            "type": "movie",
+            "type": "Brad Pitt",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5634,7 +5634,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Brad%20Pitt.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Brad Pitt",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57204"
@@ -5648,7 +5648,7 @@
         "title": "Matt Damon",
         "sources": [
           {
-            "type": "movie",
+            "type": "Matt Damon",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5661,7 +5661,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Matt%20Damon.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Matt Damon",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57205"
@@ -5675,7 +5675,7 @@
         "title": "Hugh Jackman",
         "sources": [
           {
-            "type": "movie",
+            "type": "Hugh Jackman",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5688,7 +5688,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Hugh%20Jackman.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Hugh Jackman",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57206"
@@ -5702,7 +5702,7 @@
         "title": "Robert Downey Jr",
         "sources": [
           {
-            "type": "movie",
+            "type": "Robert Downey Jr",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5715,7 +5715,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Robert%20Downey%20Jr.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Robert Downey Jr",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57218"
@@ -5729,7 +5729,7 @@
         "title": "Liam Neeson",
         "sources": [
           {
-            "type": "movie",
+            "type": "Liam Neeson",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5742,7 +5742,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Liam%20Neeson.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Liam Neeson",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57219"
@@ -5756,7 +5756,7 @@
         "title": "Mel Gibson",
         "sources": [
           {
-            "type": "movie",
+            "type": "Mel Gibson",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5769,7 +5769,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Mel%20Gibson.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Mel Gibson",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57220"
@@ -5783,7 +5783,7 @@
         "title": "Bill Murray",
         "sources": [
           {
-            "type": "movie",
+            "type": "Bill Murray",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5796,7 +5796,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Bill%20Murray.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Bill Murray",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57221"
@@ -5810,7 +5810,7 @@
         "title": "Samuel L Jackson",
         "sources": [
           {
-            "type": "movie",
+            "type": "Samuel L Jackson",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5823,7 +5823,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Samuel%20L%20Jackson.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Samuel L Jackson",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57222"
@@ -5837,7 +5837,7 @@
         "title": "Jim Carrey",
         "sources": [
           {
-            "type": "movie",
+            "type": "Jim Carrey",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5850,7 +5850,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Jim%20Carrey.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Jim Carrey",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57223"
@@ -5864,7 +5864,7 @@
         "title": "Will Smith",
         "sources": [
           {
-            "type": "movie",
+            "type": "Will Smith",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5877,7 +5877,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Will%20Smith.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Will Smith",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57224"
@@ -5891,7 +5891,7 @@
         "title": "John Goodman",
         "sources": [
           {
-            "type": "movie",
+            "type": "John Goodman",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5904,7 +5904,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/John%20Goodman.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "John Goodman",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.57225"
@@ -5918,7 +5918,7 @@
         "title": "Bruce Willis",
         "sources": [
           {
-            "type": "movie",
+            "type": "Bruce Willis",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5931,7 +5931,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Actors/cover/Bruce%20Willis.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Bruce Willis",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.77888"
@@ -5955,7 +5955,7 @@
         "title": "Christopher Nolan",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: Nolan",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -5968,7 +5968,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Christopher%20Nolan.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Nolan",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.yG7fS"
@@ -5982,22 +5982,7 @@
         "title": "Martin Scorsese",
         "sources": [
           {
-            "type": "movie",
-            "genre": "none",
-            "addonId": "aio-metadata",
-            "provider": "addon",
-            "catalogId": "trakt.list.6241136"
-          }
-        ],
-        "hideTitle": true,
-        "tileShape": "POSTER",
-        "titleLogoUrl": "https://tvflix.co.uk/Assets/Directors/logo/Martin%20Scorsese.I encountered an error doing what you asked. Could you try again?
-        {
-        "id": "folder-e1ddbbe7",
-        "title": "Martin Scorsese",
-        "sources": [
-          {
-            "type": "movie",
+            "type": "Director: Martin Scorsese",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6010,7 +5995,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Martin%20Scorsese.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Martin Scorsese",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241136"
@@ -6024,7 +6009,7 @@
         "title": "David Fincher",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: David Fincher",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6037,7 +6022,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/David%20Fincher.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: David Fincher",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241262"
@@ -6051,7 +6036,7 @@
         "title": "Quentin Tarantino",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: Quentin Tarantino",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6064,7 +6049,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Quentin%20Tarantino.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Quentin Tarantino",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.1558961"
@@ -6078,7 +6063,7 @@
         "title": "Stanley Kubrick",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: Stanley Kubrick",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6091,7 +6076,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Stanley%20Kubrick.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Stanley Kubrick",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241405"
@@ -6105,7 +6090,7 @@
         "title": "Denis Villeneuve",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: Denis Villeneuve",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6118,7 +6103,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Denis%20Villeneuve.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Denis Villeneuve",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241294"
@@ -6132,7 +6117,7 @@
         "title": "Wes Anderson",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: Wes Anderson",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6145,7 +6130,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Wes%20Anderson.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Wes Anderson",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6252074"
@@ -6159,7 +6144,7 @@
         "title": "Steven Spielberg",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: Steven Spielberg",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6172,7 +6157,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Steven%20Spielberg.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Steven Spielberg",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241187"
@@ -6186,7 +6171,7 @@
         "title": "Ridley Scott",
         "sources": [
           {
-            "type": "movie",
+            "type": "Director: Ridley Scott",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6199,7 +6184,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Directors/cover/Ridley%20Scott.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Director: Ridley Scott",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "trakt.list.6241250"
@@ -6223,14 +6208,14 @@
         "title": "Argentina",
         "sources": [
           {
-            "type": "movie",
+            "type": "Argentinian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.64533"
           },
           {
-            "type": "series",
+            "type": "Argentinian Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6243,13 +6228,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Argentina.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Argentinian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.64533"
           },
           {
-            "type": "series",
+            "type": "Argentinian Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.64335"
@@ -6263,21 +6248,21 @@
         "title": "France",
         "sources": [
           {
-            "type": "movie",
+            "type": "Introduction to French Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.154409"
           },
           {
-            "type": "movie",
+            "type": "French Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.72922"
           },
           {
-            "type": "movie",
+            "type": "Latest French Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6290,19 +6275,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/France.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Introduction to French Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.154409"
           },
           {
-            "type": "movie",
+            "type": "French Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.72922"
           },
           {
-            "type": "movie",
+            "type": "Latest French Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.49276"
@@ -6316,28 +6301,28 @@
         "title": "South Korea",
         "sources": [
           {
-            "type": "movie",
+            "type": "Recommended Korean Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.110405"
           },
           {
-            "type": "movie",
+            "type": "Korean Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.155586"
           },
           {
-            "type": "series",
+            "type": "Best Korean Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.3584"
           },
           {
-            "type": "movie",
+            "type": "Popular Korean Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6350,25 +6335,25 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/South%20Korea.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Recommended Korean Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.110405"
           },
           {
-            "type": "movie",
+            "type": "Korean Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.155586"
           },
           {
-            "type": "series",
+            "type": "Best Korean Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3584"
           },
           {
-            "type": "movie",
+            "type": "Popular Korean Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.75500"
@@ -6382,28 +6367,28 @@
         "title": "Spain",
         "sources": [
           {
-            "type": "movie",
+            "type": "Spanish Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.148832"
           },
           {
-            "type": "series",
+            "type": "Spanish Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.148833"
           },
           {
-            "type": "movie",
+            "type": "Popular Spanish Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.102682"
           },
           {
-            "type": "series",
+            "type": "Popular Spanish Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6416,25 +6401,25 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Spain.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Spanish Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.148832"
           },
           {
-            "type": "series",
+            "type": "Spanish Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.148833"
           },
           {
-            "type": "movie",
+            "type": "Popular Spanish Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.102682"
           },
           {
-            "type": "series",
+            "type": "Popular Spanish Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.102681"
@@ -6448,14 +6433,14 @@
         "title": "Italy",
         "sources": [
           {
-            "type": "movie",
+            "type": "Introduction to Italian Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.ok9c"
           },
           {
-            "type": "movie",
+            "type": "Italian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6468,13 +6453,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Italy.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Introduction to Italian Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.ok9c"
           },
           {
-            "type": "movie",
+            "type": "Italian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.ko8Ji"
@@ -6488,21 +6473,21 @@
         "title": "Japan",
         "sources": [
           {
-            "type": "movie",
+            "type": "Introduction to Japanese Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.bJ26g"
           },
           {
-            "type": "movie",
+            "type": "Japanese Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.103432"
           },
           {
-            "type": "series",
+            "type": "Japanese Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6515,19 +6500,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Japan.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Introduction to Japanese Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.bJ26g"
           },
           {
-            "type": "movie",
+            "type": "Japanese Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.103432"
           },
           {
-            "type": "series",
+            "type": "Japanese Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.144004"
@@ -6541,21 +6526,21 @@
         "title": "United Kingdom",
         "sources": [
           {
-            "type": "movie",
+            "type": "UK Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.162041"
           },
           {
-            "type": "movie",
+            "type": "Latest UK Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.101766"
           },
           {
-            "type": "series",
+            "type": "UK Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6568,19 +6553,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/United%20Kingdom.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "UK Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.162041"
           },
           {
-            "type": "movie",
+            "type": "Latest UK Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.101766"
           },
           {
-            "type": "series",
+            "type": "UK Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.3091"
@@ -6594,14 +6579,14 @@
         "title": "Germany",
         "sources": [
           {
-            "type": "movie",
+            "type": "Introduction to German Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.cdA5c"
           },
           {
-            "type": "movie",
+            "type": "German Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6614,13 +6599,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Germany.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Introduction to German Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.cdA5c"
           },
           {
-            "type": "movie",
+            "type": "German Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.165498"
@@ -6634,21 +6619,21 @@
         "title": "Mexico",
         "sources": [
           {
-            "type": "movie",
+            "type": "Introduction to Mexican Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.1zkf6"
           },
           {
-            "type": "movie",
+            "type": "Top Mexican Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.cLf96"
           },
           {
-            "type": "movie",
+            "type": "More Mexican Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6661,19 +6646,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Mexico.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Introduction to Mexican Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.1zkf6"
           },
           {
-            "type": "movie",
+            "type": "Top Mexican Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.cLf96"
           },
           {
-            "type": "movie",
+            "type": "More Mexican Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.RqIIG"
@@ -6687,21 +6672,21 @@
         "title": "Brazil",
         "sources": [
           {
-            "type": "movie",
+            "type": "Introduction to Brazilian Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.3PcIY"
           },
           {
-            "type": "movie",
+            "type": "Brazilian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.136413"
           },
           {
-            "type": "series",
+            "type": "Brazilian Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6714,19 +6699,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/Brazil.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Introduction to Brazilian Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.3PcIY"
           },
           {
-            "type": "movie",
+            "type": "Brazilian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.136413"
           },
           {
-            "type": "series",
+            "type": "Brazilian Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.gussouzanow.brazilian-shows"
@@ -6740,21 +6725,21 @@
         "title": "India",
         "sources": [
           {
-            "type": "movie",
+            "type": "Introduction to Indian Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.5Rj3U"
           },
           {
-            "type": "movie",
+            "type": "Indian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "letterboxd.jBye"
           },
           {
-            "type": "series",
+            "type": "Indian Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6767,19 +6752,19 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/International-Cinema/cover/India.jpg",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Introduction to Indian Cinema",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.5Rj3U"
           },
           {
-            "type": "movie",
+            "type": "Indian Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.jBye"
           },
           {
-            "type": "series",
+            "type": "Indian Series",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.11103"
@@ -6803,7 +6788,7 @@
         "title": "1960s",
         "sources": [
           {
-            "type": "movie",
+            "type": "1960s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6816,7 +6801,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1960s.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "1960s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55694"
@@ -6830,14 +6815,14 @@
         "title": "1970s",
         "sources": [
           {
-            "type": "movie",
+            "type": "1970s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.55175"
           },
           {
-            "type": "movie",
+            "type": "Best of the 1970s",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6850,13 +6835,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1970s.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "1970s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55175"
           },
           {
-            "type": "movie",
+            "type": "Best of the 1970s",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2820"
@@ -6870,7 +6855,7 @@
         "title": "1980s",
         "sources": [
           {
-            "type": "movie",
+            "type": "1980s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6883,7 +6868,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1980s.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "1980s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55174"
@@ -6897,14 +6882,14 @@
         "title": "1990s",
         "sources": [
           {
-            "type": "movie",
+            "type": "1990s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
             "catalogId": "mdblist.55173"
           },
           {
-            "type": "movie",
+            "type": "Best of the 1990s",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6917,13 +6902,13 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/1990s.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "1990s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55173"
           },
           {
-            "type": "movie",
+            "type": "Best of the 1990s",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.2818"
@@ -6937,7 +6922,7 @@
         "title": "2000s",
         "sources": [
           {
-            "type": "movie",
+            "type": "2000s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6950,7 +6935,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/2000s.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "2000s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55172"
@@ -6964,7 +6949,7 @@
         "title": "2010s",
         "sources": [
           {
-            "type": "movie",
+            "type": "2010s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -6977,7 +6962,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/2010s.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "2010s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55171"
@@ -6991,7 +6976,7 @@
         "title": "2020s",
         "sources": [
           {
-            "type": "movie",
+            "type": "2020s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7004,7 +6989,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Decades/cover/2020s.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "2020s Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.55170"
@@ -7028,7 +7013,7 @@
         "title": "Christmas",
         "sources": [
           {
-            "type": "movie",
+            "type": "Christmas Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7041,7 +7026,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Christmas.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Christmas Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.8113"
@@ -7055,7 +7040,7 @@
         "title": "Thanksgiving",
         "sources": [
           {
-            "type": "movie",
+            "type": "Thanksgiving Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7068,7 +7053,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Thanksgiving.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Thanksgiving Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.7943"
@@ -7082,7 +7067,7 @@
         "title": "Halloween",
         "sources": [
           {
-            "type": "movie",
+            "type": "Best Halloween Movies of All Time",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7095,7 +7080,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Halloween.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Best Halloween Movies of All Time",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.41422"
@@ -7109,7 +7094,7 @@
         "title": "Valentine’s Day",
         "sources": [
           {
-            "type": "movie",
+            "type": "Top Valentine's Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7122,7 +7107,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Valentine%E2%80%99s%20Day.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Top Valentine's Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.142222"
@@ -7136,7 +7121,7 @@
         "title": "St. Patrick’s Day",
         "sources": [
           {
-            "type": "movie",
+            "type": "St. Patrick's Day",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7149,7 +7134,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/St.%20Patrick%E2%80%99s%20Day.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "St. Patrick's Day",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.mv94"
@@ -7163,7 +7148,7 @@
         "title": "Day of the Dead",
         "sources": [
           {
-            "type": "movie",
+            "type": "Day of the Dead: Mexican Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7176,7 +7161,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/Holiday-Specials/cover/Day%20of%20the%20Dead.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Day of the Dead: Mexican Horror",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.HSJte"
@@ -7200,7 +7185,7 @@
         "title": "Under 60 min",
         "sources": [
           {
-            "type": "movie",
+            "type": "60 Minutes or Less",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7213,7 +7198,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Under%2060%20min.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "60 Minutes or Less",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.83601"
@@ -7227,7 +7212,7 @@
         "title": "Under 90 min",
         "sources": [
           {
-            "type": "movie",
+            "type": "90 Minutes or Less",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7240,7 +7225,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Under%2090%20min.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "90 Minutes or Less",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.83707"
@@ -7254,7 +7239,7 @@
         "title": "Under 120 min",
         "sources": [
           {
-            "type": "movie",
+            "type": "Under 2 Hours",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7267,7 +7252,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Under%20120%20min.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Under 2 Hours",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "mdblist.141346"
@@ -7281,7 +7266,7 @@
         "title": "Over 120 min",
         "sources": [
           {
-            "type": "movie",
+            "type": "Long Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "provider": "addon",
@@ -7294,7 +7279,7 @@
         "coverImageUrl": "https://tvflix.co.uk/Assets/By-Runtime/cover/Over%20120%20min.png",
         "catalogSources": [
           {
-            "type": "movie",
+            "type": "Long Movies",
             "genre": "none",
             "addonId": "aio-metadata",
             "catalogId": "letterboxd.bjMmi"
